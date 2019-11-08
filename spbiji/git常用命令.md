@@ -24,3 +24,4 @@ git clone  <url>   克隆遠程的庫到本地
 
 git status 	 查看文件的狀態
 
+git rm -r --cached 文件名   忽略add已经添加到缓存区的文件
